@@ -36,3 +36,7 @@ Annotate a FluxCD resource with `reconcile.fluxcd.io/requestedAt` and wait for `
 |---|---|
 | `ready` | True / False / Unknown |
 | `status-message` | Ready condition message |
+
+## Part of the pleme-io action library
+
+This action is one of 11 in [`pleme-io/pleme-actions`](https://github.com/pleme-io/pleme-actions) — discovery hub, version compat matrix, contributing guide, and reusable SDLC workflows shared across the library.
